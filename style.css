@@ -1,0 +1,59 @@
+body{
+   
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    color: #fff;
+}
+#t1{
+    text-indent: 37%;
+    font-family: 'Times New Roman', Times, serif;
+}
+#ff{
+    background-color: rgba(0, 0, 0, 0.637); 
+    padding-left: 5%;
+    padding-right: -5%;
+    padding-bottom: 2%;
+     margin: auto;
+    margin-top: 40px;
+    opacity: 1;
+    text-indent: 10%;
+    text-decoration-color: white;
+    border: 1px solid #fff;
+}
+#t2{
+    margin-left: 100px;
+}
+#t3{
+   margin-left: 150px;
+   background: transparent;
+    border: 1px solid #fff;
+   color: #fff;
+}
+#advanceAmount{
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+}
+#name{
+    background: transparent;
+    border: 1px solid #fff;
+   color: #fff;
+}
+#checkin{
+    background: transparent;
+    border: 1px solid #fff;
+   color: #fff;
+}
+#noOfDays{
+    background: transparent;
+    border: 1px solid #fff;
+   color: #fff;
+}
+#noOfPersons{
+    background: transparent;
+    border: 1px solid #fff;
+   color: #fff;
+}
